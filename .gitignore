@@ -1,0 +1,15 @@
+/Binaries/
+/Intermediate/
+/Saved/
+/DerivedDataCache/
+/Builds/
+/Build/*
+!/Build/Windows/
+/Build/Windows/*
+!/Build/Windows/Application.ico
+/Dist/*
+!/Dist/PupPop-v*.exe
+/Scripts/Audio/
+*.sln
+.vs/
+__pycache__/

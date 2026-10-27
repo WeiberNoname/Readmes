@@ -1,0 +1,2 @@
+# The single-file app is too big for plain git (GitHub caps files at 100 MB), so it goes through Git LFS.
+Dist/*.exe filter=lfs diff=lfs merge=lfs -text
